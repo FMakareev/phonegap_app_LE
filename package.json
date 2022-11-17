@@ -28,7 +28,7 @@
     "gulp": "3.9.1",
     "gulp-phonegap-build": "0.1.5",
     "history": "4.7.2",
-    "html-webpack-plugin": "2.29.0",
+    "html-webpack-plugin": "5.5.0",
     "jest": "20.0.4",
     "material-ui": "1.0.0-beta.23",
     "material-ui-icons": "1.0.0-beta.17",
